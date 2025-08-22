@@ -20,8 +20,3 @@ Jogo web educativo para 3º ano do Ensino Médio: revisão de **seno**, **cossen
 
 ## 🚀 Executando
 - **Local**: abra `index.html` no navegador.
-- **Com servidor simples (opcional)**:
-  ```bash
-  # Python 3
-  python -m http.server 8000
-  # depois acesse http://localhost:8000
